@@ -138,16 +138,19 @@ p.note { display: none; }
 <a href="20241004_024.JPG" target="_blank"><img src="20241004_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241004_025.JPG" target="_blank"><img src="20241004_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241004_026.JPG" target="_blank"><img src="20241004_026.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241004_027.JPG" target="_blank"><img src="20241004_027.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241004_028.JPG" target="_blank"><img src="20241004_028.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241004_029.JPG" target="_blank"><img src="20241004_029.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241004_030.JPG" target="_blank"><img src="20241004_030.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241004_031.JPG" target="_blank"><img src="20241004_031.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241004_032.JPG" target="_blank"><img src="20241004_032.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241004_033.JPG" target="_blank"><img src="20241004_033.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">店員さんに撮影お願いしたら、たくさん撮ってくれました！</span></h2>
+
+<a href="20241004_027.JPG" target="_blank"><img src="20241004_027.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20241004_028.JPG" target="_blank"><img src="20241004_028.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20241004_029.JPG" target="_blank"><img src="20241004_029.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20241004_030.JPG" target="_blank"><img src="20241004_030.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20241004_031.JPG" target="_blank"><img src="20241004_031.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20241004_032.JPG" target="_blank"><img src="20241004_032.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20241004_033.JPG" target="_blank"><img src="20241004_033.JPG" alt="サンプル画像" width="450" /></a>
 
 
-<h2><span class="yellow">ここからは音楽イベントの状況！</span></h2>
+
 
 
 <!--
@@ -162,9 +165,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">普段はこんなところに常駐<br>メタバース内の温泉に浸かっている常連さん<br>AKILUXさんはこのワールドの作者、ググれば名前が出てくるような有名人です</span></h2>
 
-<a href="20241003_003.png" target="_blank"><img src="20241003_003.png" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
