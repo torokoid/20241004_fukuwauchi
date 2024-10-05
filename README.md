@@ -141,13 +141,13 @@ p.note { display: none; }
 
 <h2><span class="yellow">店員さんに撮影お願いしたら、たくさん撮ってくれました！</span></h2>
 
-<a href="20241004_027.JPG" target="_blank"><img src="20241004_027.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20241004_028.JPG" target="_blank"><img src="20241004_028.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20241004_029.JPG" target="_blank"><img src="20241004_029.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20241004_030.JPG" target="_blank"><img src="20241004_030.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20241004_031.JPG" target="_blank"><img src="20241004_031.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20241004_032.JPG" target="_blank"><img src="20241004_032.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20241004_033.JPG" target="_blank"><img src="20241004_033.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20241004_027.JPG" target="_blank"><img src="20241004_027.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20241004_028.JPG" target="_blank"><img src="20241004_028.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20241004_029.JPG" target="_blank"><img src="20241004_029.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20241004_030.JPG" target="_blank"><img src="20241004_030.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20241004_031.JPG" target="_blank"><img src="20241004_031.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20241004_032.JPG" target="_blank"><img src="20241004_032.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20241004_033.JPG" target="_blank"><img src="20241004_033.JPG" alt="サンプル画像" width="400" /></a>
 
 
 
