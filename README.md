@@ -129,6 +129,11 @@ p.note { display: none; }
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
+
+<h2><span class="yellow">定年退職１ヶ月後の飲み会です！</span></h2>
+
+<a href="20241004_000.png" target="_blank"><img src="20241004_000.png" alt="サンプル画像" width="900" /></a>
+
 <h2><span class="yellow">定年退職１ヶ月後の飲み会です！</span></h2>
 
 <a href="20241004_020.JPG" target="_blank"><img src="20241004_020.JPG" alt="サンプル画像" width="900" /></a>
