@@ -139,15 +139,18 @@ p.note { display: none; }
 <a href="20241004_025.JPG" target="_blank"><img src="20241004_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241004_026.JPG" target="_blank"><img src="20241004_026.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_fCTc72pe84?si=fwm0BejASQpyO59G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h2><span class="yellow">店員さんに撮影お願いしたら、たくさん撮ってくれました！</span></h2>
 
-<a href="20241004_027.JPG" target="_blank"><img src="20241004_027.JPG" alt="サンプル画像" width="400" /></a>
-<a href="20241004_028.JPG" target="_blank"><img src="20241004_028.JPG" alt="サンプル画像" width="400" /></a>
-<a href="20241004_029.JPG" target="_blank"><img src="20241004_029.JPG" alt="サンプル画像" width="400" /></a>
-<a href="20241004_030.JPG" target="_blank"><img src="20241004_030.JPG" alt="サンプル画像" width="400" /></a>
-<a href="20241004_031.JPG" target="_blank"><img src="20241004_031.JPG" alt="サンプル画像" width="400" /></a>
-<a href="20241004_032.JPG" target="_blank"><img src="20241004_032.JPG" alt="サンプル画像" width="400" /></a>
-<a href="20241004_033.JPG" target="_blank"><img src="20241004_033.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20241004_027.JPG" target="_blank"><img src="20241004_027.JPG" alt="サンプル画像" width="350" /></a>
+<a href="20241004_028.JPG" target="_blank"><img src="20241004_028.JPG" alt="サンプル画像" width="350" /></a>
+<a href="20241004_029.JPG" target="_blank"><img src="20241004_029.JPG" alt="サンプル画像" width="350" /></a>
+<a href="20241004_030.JPG" target="_blank"><img src="20241004_030.JPG" alt="サンプル画像" width="350" /></a>
+<a href="20241004_031.JPG" target="_blank"><img src="20241004_031.JPG" alt="サンプル画像" width="350" /></a>
+<a href="20241004_032.JPG" target="_blank"><img src="20241004_032.JPG" alt="サンプル画像" width="350" /></a>
+<a href="20241004_033.JPG" target="_blank"><img src="20241004_033.JPG" alt="サンプル画像" width="350" /></a>
 
 
 
