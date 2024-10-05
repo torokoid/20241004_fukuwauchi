@@ -134,7 +134,7 @@ p.note { display: none; }
 
 <a href="20241004_000.png" target="_blank"><img src="20241004_000.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">定年退職１ヶ月後の飲み会です！</span></h2>
+<h2><span class="yellow">飲み会の様子、現役メンバーから元気をいただきました！</span></h2>
 
 <a href="20241004_020.JPG" target="_blank"><img src="20241004_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241004_021.JPG" target="_blank"><img src="20241004_021.JPG" alt="サンプル画像" width="900" /></a>
